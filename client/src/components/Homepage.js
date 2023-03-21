@@ -57,7 +57,7 @@ function Homepage() {
         </button>
         <img
           id="guy"
-          src={bannerURL[4]}
+          src={data[1].url}
           height="300"
           width="320"
           alt="homepage-img"

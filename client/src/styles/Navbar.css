@@ -9,11 +9,6 @@
   text-align: left;
   flex-wrap: wrap;
 }
-@media screen and (min-width: 600px) {
-  #nav-bar {
-    background-color: lightblue;
-  }
-}
 #logo {
   margin-left: 20px;
   vertical-align: middle;
